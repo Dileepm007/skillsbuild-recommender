@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804587586711",
+    "project_id": "project-ibm-a7a63",
+    "storage_bucket": "project-ibm-a7a63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804587586711:android:12619ffdff39bb46e515d2",
+        "android_client_info": {
+          "package_name": "com.example.skillsbuild_recommender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5FlwysqzhO-y-MBy7HBiU4ql72-me3kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

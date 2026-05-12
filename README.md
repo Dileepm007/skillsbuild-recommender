@@ -15,7 +15,7 @@ A Progressive Web App that recommends IBM SkillsBuild courses to University of B
 ## Features
 
 - 🔐 **Firebase Authentication** — email/password sign-up with password recovery
-- 🎓 **90 verified IBM SkillsBuild courses** across 8 categories
+- 🎓 **verified IBM SkillsBuild courses**
 - 🎯 **Weighted recommendation engine** with transparent "Why this?" explanations
 - 🏫 **Bristol-specific** — 140+ undergraduate and 90+ postgraduate programmes built in
 - 📊 **Personal learning dashboard** with real-time progress tracking

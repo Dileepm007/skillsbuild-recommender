@@ -32,5 +32,3 @@ A Progressive Web App that recommends IBM SkillsBuild courses to University of B
 | Database | Cloud Firestore |
 | Hosting | Firebase Hosting |
 | Distribution | Progressive Web App |
-
-## Project Structure
